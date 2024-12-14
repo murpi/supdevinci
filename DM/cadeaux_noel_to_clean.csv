@@ -25,7 +25,7 @@ ID,Catégorie,Largeur (cm),Longueur (cm),Hauteur (cm),Poids (kg)
 22,Jouets,2.48,5.2,17.65,0.14
 23,Décoration,14.5,39.22,31.26,1.14
 24,Décoration,30.38,50.0,45.09,1.06
-25,Électronique,12.07,17.4,11.46,0.39
+25,Électronique,1207,17.4,11.46,0.39
 26,Électronique,7.13,13.3,7.56,0.2
 27,Jouets,10.98,16.72,16.9,0.18
 28,Électronique,12.65,16.76,10.31,0.14
@@ -43,7 +43,7 @@ ID,Catégorie,Largeur (cm),Longueur (cm),Hauteur (cm),Poids (kg)
 40,Électronique,13.71,18.49,8.43,0.37
 41,Électronique,10.78,16.42,12.64,0.52
 42,Décoration,20.37,46.12,25.62,0.71
-43,Décoration,12.34,15.15,38.74,0.96
+43,Décoration,12.34,1515,38.74,0.96
 44,Électronique,9.56,17.35,9.0,0.56
 45,Décoration,2.42,3.0,30.06,0.42
 46,Décoration,20.21,27.81,15.22,0.49
@@ -61,7 +61,7 @@ ID,Catégorie,Largeur (cm),Longueur (cm),Hauteur (cm),Poids (kg)
 58,Décoration,34.86,48.11,46.83,1.6
 59,Électronique,6.69,17.9,5.6,0.45
 60,Électronique,8.88,10.65,11.85,0.3
-61,Jouets,14.07,29.68,6.87,0.79
+61,Jouets,1407,29.68,6.87,0.79
 62,Jouets,10.35,10.94,16.91,0.64
 63,Jouets,2.2,3.0,9.89,0.23
 64,Décoration,16.74,20.78,32.99,0.64
