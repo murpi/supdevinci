@@ -183,7 +183,7 @@ ID,Catégorie,Largeur (cm),Longueur (cm),Hauteur (cm),Poids (kg)
 179,Électronique,6.71,9.69,8.25,0.3
 180,Jouets,8.56,19.9,6.82,0.34
 181,Jouets,6.59,6.49,13.34,0.39
-182,Jouets,8.29,16.21,15.28,0.29
+,,,,,
 183,Jouets,9.66,17.61,10.53,0.47
 184,,13.68,17.04,15.03,0.54
 185,Jouets,8.41,19.72,17.59,0.55
@@ -264,7 +264,7 @@ ID,Catégorie,Largeur (cm),Longueur (cm),Hauteur (cm),Poids (kg)
 260,Décoration,29.74,38.48,38.89,1.15
 261,Électronique,15.87,19.47,8.12,0.15
 262,Électronique,10.87,12.33,12.61,0.57
-263,Jouets,13.28,18.04,9.15,0.27
+,,,,,
 264,Électronique,10.55,18.29,11.4,0.6
 265,Décoration,8.58,36.89,38.56,0.55
 266,Décoration,13.55,34.04,30.06,1.2
