@@ -1,0 +1,101 @@
+id,poids_g,prix_euros,marque,type,saison
+1,287,12.04,Nestlé,Praliné,Saint-Valentin
+2,242,6.69,Mondelez,Blanc,Noël
+3,358,17.71,Ferrero,Blanc,Pâques
+4,397,9.37,Lindt,Lait,Noël
+5,135,6.81,Lindt,Lait,Noël
+6,496,7.13,Nestlé,Blanc,Pâques
+7,259,6.69,Mondelez,Praliné,Pâques
+8,147,22.07,Ferrero,Praliné,Pâques
+9,408,27.81,Côte d'Or,Praliné,Noël
+10,405,6.25,Ferrero,Lait,Noël
+11,66,14.33,Ferrero,Noir,Saint-Valentin
+12,205,24.54,Côte d'Or,Praliné,Pâques
+13,321,15.23,Mondelez,Lait,Saint-Valentin
+14,244,9.65,Mondelez,Lait,Saint-Valentin
+15,108,12.48,Lindt,Blanc,Pâques
+16,247,25.67,Nestlé,Noir,Pâques
+17,187,23.08,Mondelez,Blanc,Noël
+18,273,8.69,Côte d'Or,Blanc,Saint-Valentin
+19,137,14.43,Côte d'Or,Praliné,Pâques
+20,288,12.25,Lindt,Praliné,Pâques
+21,468,29.4,Nestlé,Praliné,Pâques
+22,371,19.42,Côte d'Or,Noir,Noël
+23,327,27.28,Côte d'Or,Praliné,Pâques
+24,251,29.68,Lindt,Noir,Saint-Valentin
+25,232,27.64,Ferrero,Praliné,Noël
+26,418,14.87,Côte d'Or,Blanc,Pâques
+27,463,22.89,Mondelez,Noir,Pâques
+28,401,10.66,Mondelez,Praliné,Saint-Valentin
+29,479,15.49,Ferrero,Praliné,Pâques
+30,105,5.64,Mondelez,Blanc,Saint-Valentin
+31,252,19.91,Nestlé,Praliné,Pâques
+32,468,23.55,Lindt,Praliné,Noël
+33,285,10.82,Nestlé,Noir,Pâques
+34,281,26.46,Ferrero,Noir,Pâques
+35,323,13.63,Lindt,Praliné,Pâques
+36,401,17.77,Lindt,Noir,Saint-Valentin
+37,339,21.49,Ferrero,Blanc,Pâques
+38,182,14.95,Nestlé,Blanc,Pâques
+39,288,24.48,Côte d'Or,Noir,Noël
+40,170,19.26,Lindt,Lait,Pâques
+41,373,15.76,Côte d'Or,Praliné,Noël
+42,469,9.76,Côte d'Or,Blanc,Saint-Valentin
+43,259,27.37,Côte d'Or,Lait,Noël
+44,299,14.0,Nestlé,Blanc,Noël
+45,114,12.79,Mondelez,Praliné,Saint-Valentin
+46,477,11.17,Ferrero,Lait,Saint-Valentin
+47,140,4.81,Ferrero,Praliné,Saint-Valentin
+48,216,11.32,Ferrero,Praliné,Saint-Valentin
+49,267,6.81,Ferrero,Praliné,Saint-Valentin
+50,439,11.44,Ferrero,Noir,Noël
+51,56,17.98,Nestlé,Blanc,Saint-Valentin
+52,395,12.42,Côte d'Or,Praliné,Noël
+53,492,15.65,Mondelez,Praliné,Pâques
+54,271,23.77,Nestlé,Praliné,Pâques
+55,256,16.3,Ferrero,Blanc,Noël
+56,431,16.69,Mondelez,Praliné,Pâques
+57,472,9.38,Côte d'Or,Praliné,Noël
+58,336,28.25,Côte d'Or,Blanc,Pâques
+59,133,15.98,Ferrero,Blanc,Noël
+60,352,15.12,Ferrero,Noir,Saint-Valentin
+61,480,27.86,Nestlé,Lait,Saint-Valentin
+62,285,6.79,Lindt,Lait,Saint-Valentin
+63,198,5.65,Côte d'Or,Lait,Noël
+64,87,11.87,Nestlé,Lait,Saint-Valentin
+65,64,19.33,Lindt,Noir,Noël
+66,69,7.29,Mondelez,Noir,Noël
+67,58,19.58,Lindt,Blanc,Noël
+68,97,24.5,Mondelez,Blanc,Noël
+69,97,12.72,Ferrero,Praliné,Noël
+70,294,3.88,Mondelez,Lait,Noël
+71,355,20.38,Nestlé,Lait,Pâques
+72,312,4.77,Mondelez,Praliné,Saint-Valentin
+73,116,12.78,Mondelez,Lait,Pâques
+74,111,25.42,Mondelez,Praliné,Saint-Valentin
+75,181,24.31,Lindt,Noir,Pâques
+76,456,11.19,Nestlé,Noir,Saint-Valentin
+77,422,18.28,Lindt,Praliné,Saint-Valentin
+78,285,26.48,Ferrero,Blanc,Noël
+79,489,14.63,Nestlé,Lait,Noël
+80,180,6.58,Mondelez,Blanc,Noël
+81,383,13.11,Lindt,Blanc,Pâques
+82,203,29.96,Nestlé,Blanc,Noël
+83,66,15.82,Mondelez,Noir,Pâques
+84,419,16.29,Nestlé,Noir,Pâques
+85,81,6.91,Ferrero,Lait,Saint-Valentin
+86,422,23.41,Nestlé,Blanc,Saint-Valentin
+87,374,27.66,Lindt,Praliné,Saint-Valentin
+88,448,5.29,Lindt,Lait,Pâques
+89,443,5.16,Nestlé,Noir,Noël
+90,75,19.41,Lindt,Noir,Noël
+91,394,19.83,Côte d'Or,Praliné,Saint-Valentin
+92,312,7.98,Nestlé,Blanc,Pâques
+93,177,3.87,Lindt,Lait,Pâques
+94,401,17.57,Mondelez,Lait,Saint-Valentin
+95,308,24.4,Nestlé,Praliné,Noël
+96,85,13.91,Lindt,Noir,Saint-Valentin
+97,447,3.38,Ferrero,Blanc,Saint-Valentin
+98,447,5.5,Côte d'Or,Blanc,Pâques
+99,327,25.84,Nestlé,Blanc,Pâques
+100,70,29.17,Côte d'Or,Blanc,Saint-Valentin
